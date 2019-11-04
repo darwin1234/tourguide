@@ -1,0 +1,25 @@
+.leaflet-popup-content-wrapper{background-color: rgba(0,0,0,0.9);}
+.leaflet-popup-content{overflow:auto; margin:0!important;}
+.leaflet-container a.leaflet-popup-close-button{background: #34A853; color: #fff; padding: 8px;border-radius: 50px;	}
+.tns-controls{display:none;}
+.tns-nav{display:none;}
+#menu{position:fixed; top:0; height:45px; width:100%; background:#000;}
+.menuwrap{width:50px!important;  float:right!important; margin-top:15px; overflow:auto; }
+.menuwrap .dd{margin:0 auto; font-size:12px; clear:both; margin-top:4px; background: #fff; padding: 2px; width: 30px; display: block;}
+.cs{float:left; width:33.3%; width: 33.3%; margin-top:5px; height:40px;}
+.logo{width: 100px!important;}
+.search{margin-top:10px; width: 58%!important; height:10px;}
+.search form input[type="text"]{ height: 28px; border-radius: 10px; padding-left: 5px; border: 0; width: 161px; float: left; margin-right: 10px;}
+.img {border-radius:70px;}
+.img a{padding:10!important; display:block;}
+.img a i{font-size:40px!important;}
+.dsbtn2{float:left; margin:5px; width:46%; height:180px; background:#fff; border:1px solid #ccc;}
+.dsbtn2 a{margin-top: 60px;  display: block; text-align:center; font-size: 30px; color:gray; display:block; font-size:70px;}
+.dsbtn3{float:left; margin:5px; width:95.4%; text-align:center;  height:180px; overflow:auto; background:#fff; border:1px solid #ccc;}
+.dsbtn3 a{margin-top: 60px; display:block; color:gray;  font-size:70px;}
+.dsbtn2 span{font-size:15px; text-align:center; display:block; line-height:50px;}
+.mymenu{width:100%;}
+.mymenu li{width:100%!important; padding-left:20px; border-bottom:1px solid #ccc; text-align:left!important;}
+.mymenu li a{color:#000!important; text-align:left!important;}
+#hint{position:absolute; display:none; height: 400px; width: 100%; background: #fff; z-index: 11111111; top: 45px; overflow:auto; padding-left:6px; }
+#searchText{display:none;}
